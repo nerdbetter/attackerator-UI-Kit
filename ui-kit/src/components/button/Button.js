@@ -32,7 +32,7 @@ Button.propTypes = {
   type: propTypes.oneOf(["button", "submit", "reset"]),
   /** click event - not required for submit or reset if contained within a form */
   onClick: propTypes.func,
-  /** color green, grey, and red */
+  /** color "lightBlue", "green", "orange", "purple", "grey", "red" */
   color: propTypes.oneOf(["lightBlue", "green", "orange", "purple", "grey", "red"]),
   /** button child */
   children: propTypes.oneOfType([propTypes.element, propTypes.string])
