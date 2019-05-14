@@ -2,6 +2,13 @@
   "name": "attackerator-ui-kit",
   "version": "1.0.4",
   "private": false,
+  "main": "dist/index.js",
+  "module": "dist/index.js",
+  "files": [ "dist", "README.md" ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nerdbetter/attackerator-UI-Kit"
+  },
   "dependencies": {
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
