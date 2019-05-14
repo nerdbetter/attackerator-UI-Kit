@@ -1,6 +1,6 @@
 {
-  "name": "ui-kit",
-  "version": "1.0.0",
+  "name": "attackerator-ui-kit",
+  "version": "1.0.2",
   "private": false,
   "dependencies": {
     "react": "^16.8.6",
